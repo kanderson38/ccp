@@ -1,0 +1,366 @@
+
+/* Class = "UISegmentedControl"; 1vX-Gj-m5p.segmentTitles[0] = "None"; ObjectID = "1vX-Gj-m5p"; */
+"1vX-Gj-m5p.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; 1vX-Gj-m5p.segmentTitles[1] = "Split"; ObjectID = "1vX-Gj-m5p"; */
+"1vX-Gj-m5p.segmentTitles[1]" = "Split";
+
+/* Class = "UISegmentedControl"; 1vX-Gj-m5p.segmentTitles[2] = "Visual"; ObjectID = "1vX-Gj-m5p"; */
+"1vX-Gj-m5p.segmentTitles[2]" = "Visual";
+
+/* Class = "UISegmentedControl"; 4SS-l4-h0c.segmentTitles[0] = "None"; ObjectID = "4SS-l4-h0c"; */
+"4SS-l4-h0c.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; 4SS-l4-h0c.segmentTitles[1] = "SF"; ObjectID = "4SS-l4-h0c"; */
+"4SS-l4-h0c.segmentTitles[1]" = "SF";
+
+/* Class = "UISegmentedControl"; 4SS-l4-h0c.segmentTitles[2] = "DF"; ObjectID = "4SS-l4-h0c"; */
+"4SS-l4-h0c.segmentTitles[2]" = "DF";
+
+/* Class = "UILabel"; text = "Parblue Mutations (Recessive)"; ObjectID = "4e1-n2-cPX"; */
+"4e1-n2-cPX.text" = "Parblue Mutations (Recessive)";
+
+/* Class = "UISegmentedControl"; 52E-2B-D2r.segmentTitles[0] = "None"; ObjectID = "52E-2B-D2r"; */
+"52E-2B-D2r.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; 52E-2B-D2r.segmentTitles[1] = "Visual"; ObjectID = "52E-2B-D2r"; */
+"52E-2B-D2r.segmentTitles[1]" = "Visual";
+
+/* Class = "UINavigationItem"; title = "Select Male Type"; ObjectID = "5he-3n-7tq"; */
+"5he-3n-7tq.title" = "Select Male Type";
+
+/* Class = "UISegmentedControl"; 69s-bf-YaD.segmentTitles[0] = "None"; ObjectID = "69s-bf-YaD"; */
+"69s-bf-YaD.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; 69s-bf-YaD.segmentTitles[1] = "SF"; ObjectID = "69s-bf-YaD"; */
+"69s-bf-YaD.segmentTitles[1]" = "SF";
+
+/* Class = "UISegmentedControl"; 69s-bf-YaD.segmentTitles[2] = "DF"; ObjectID = "69s-bf-YaD"; */
+"69s-bf-YaD.segmentTitles[2]" = "DF";
+
+/* Class = "UILabel"; text = "Parblue Mutations (Recessive)"; ObjectID = "7FO-G8-Q6S"; */
+"7FO-G8-Q6S.text" = "Parblue Mutations (Recessive)";
+
+/* Class = "UILabel"; text = "Silver"; ObjectID = "7Ve-vw-BO8"; */
+"7Ve-vw-BO8.text" = "Silver";
+
+/* Class = "UILabel"; text = "Dominant Mutations (DF: Double Factor, SF: Single Factor)"; ObjectID = "7Y1-5h-Vws"; */
+"7Y1-5h-Vws.text" = "Dominant Mutations (DF: Double Factor, SF: Single Factor)";
+
+/* Class = "UILabel"; text = "Gene 2"; ObjectID = "84B-Vn-VmF"; */
+"84B-Vn-VmF.text" = "Gene 2";
+
+/* Class = "UILabel"; text = "Olive"; ObjectID = "A2Q-cP-P0g"; */
+"A2Q-cP-P0g.text" = "Olive";
+
+/* Class = "UISegmentedControl"; CVG-JL-ZlD.segmentTitles[0] = "None"; ObjectID = "CVG-JL-ZlD"; */
+"CVG-JL-ZlD.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; CVG-JL-ZlD.segmentTitles[1] = "X1"; ObjectID = "CVG-JL-ZlD"; */
+"CVG-JL-ZlD.segmentTitles[1]" = "X1";
+
+/* Class = "UISegmentedControl"; CVG-JL-ZlD.segmentTitles[2] = "X2"; ObjectID = "CVG-JL-ZlD"; */
+"CVG-JL-ZlD.segmentTitles[2]" = "X2";
+
+/* Class = "UISegmentedControl"; CVG-JL-ZlD.segmentTitles[3] = "Visual"; ObjectID = "CVG-JL-ZlD"; */
+"CVG-JL-ZlD.segmentTitles[3]" = "Visual";
+
+/* Class = "UILabel"; text = "Silver"; ObjectID = "D7p-gR-k74"; */
+"D7p-gR-k74.text" = "Silver";
+
+/* Class = "UILabel"; text = "Dominant Mutations (DF: Double Factor, SF: Single Factor)"; ObjectID = "DON-7d-77G"; */
+"DON-7d-77G.text" = "Dominant Mutations (DF: Double Factor, SF: Single Factor)";
+
+/* Class = "UIViewController"; title = "about page"; ObjectID = "DRh-tv-DTw"; */
+"DRh-tv-DTw.title" = "about page";
+
+/* Class = "UILabel"; text = "Yellowcheek"; ObjectID = "Dbz-7T-j2K"; */
+"Dbz-7T-j2K.text" = "Yellowcheek";
+
+/* Class = "UILabel"; text = "Cinnamon"; ObjectID = "FT4-tI-rJx"; */
+"FT4-tI-rJx.text" = "Cinnamon";
+
+/* Class = "UILabel"; text = "Pied"; ObjectID = "FVC-iC-EoV"; */
+"FVC-iC-EoV.text" = "Pied";
+
+/* Class = "UINavigationItem"; title = "About the Cockatiel Color Palette"; ObjectID = "FxM-10-V1x"; */
+"FxM-10-V1x.title" = "About the Cockatiel Color Palette";
+
+/* Class = "UISegmentedControl"; HAg-Rd-U5K.segmentTitles[0] = "None"; ObjectID = "HAg-Rd-U5K"; */
+"HAg-Rd-U5K.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; HAg-Rd-U5K.segmentTitles[1] = "Split"; ObjectID = "HAg-Rd-U5K"; */
+"HAg-Rd-U5K.segmentTitles[1]" = "Split";
+
+/* Class = "UISegmentedControl"; HAg-Rd-U5K.segmentTitles[2] = "Visual"; ObjectID = "HAg-Rd-U5K"; */
+"HAg-Rd-U5K.segmentTitles[2]" = "Visual";
+
+/* Class = "UILabel"; text = "Lutino"; ObjectID = "Ipa-TA-yV5"; */
+"Ipa-TA-yV5.text" = "Lutino";
+
+/* Class = "UILabel"; text = "Cinnamon"; ObjectID = "JfN-yS-hEZ"; */
+"JfN-yS-hEZ.text" = "Cinnamon";
+
+/* Class = "UISegmentedControl"; KtT-Tl-O01.segmentTitles[0] = "None"; ObjectID = "KtT-Tl-O01"; */
+"KtT-Tl-O01.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; KtT-Tl-O01.segmentTitles[1] = "Split"; ObjectID = "KtT-Tl-O01"; */
+"KtT-Tl-O01.segmentTitles[1]" = "Split";
+
+/* Class = "UISegmentedControl"; KtT-Tl-O01.segmentTitles[2] = "Visual"; ObjectID = "KtT-Tl-O01"; */
+"KtT-Tl-O01.segmentTitles[2]" = "Visual";
+
+/* Class = "UINavigationItem"; title = "Breeding Results"; ObjectID = "O3R-Cg-PcM"; */
+"O3R-Cg-PcM.title" = "Breeding Results";
+
+/* Class = "UISegmentedControl"; PWg-AW-1fc.segmentTitles[0] = "None"; ObjectID = "PWg-AW-1fc"; */
+"PWg-AW-1fc.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; PWg-AW-1fc.segmentTitles[1] = "Split"; ObjectID = "PWg-AW-1fc"; */
+"PWg-AW-1fc.segmentTitles[1]" = "Split";
+
+/* Class = "UISegmentedControl"; PWg-AW-1fc.segmentTitles[2] = "Visual"; ObjectID = "PWg-AW-1fc"; */
+"PWg-AW-1fc.segmentTitles[2]" = "Visual";
+
+/* Class = "UITabBarItem"; title = "Help Topics"; ObjectID = "PlZ-9I-Nq2"; */
+"PlZ-9I-Nq2.title" = "Help Topics";
+
+/* Class = "UINavigationItem"; title = "Select Female Type"; ObjectID = "Px4-4I-uMw"; */
+"Px4-4I-uMw.title" = "Select Female Type";
+
+/* Class = "UILabel"; text = "Pied"; ObjectID = "RDA-uY-ujC"; */
+"RDA-uY-ujC.text" = "Pied";
+
+/* Class = "UISegmentedControl"; RVb-7h-kcf.segmentTitles[0] = "None"; ObjectID = "RVb-7h-kcf"; */
+"RVb-7h-kcf.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; RVb-7h-kcf.segmentTitles[1] = "PF"; ObjectID = "RVb-7h-kcf"; */
+"RVb-7h-kcf.segmentTitles[1]" = "PF";
+
+/* Class = "UISegmentedControl"; RVb-7h-kcf.segmentTitles[2] = "CF"; ObjectID = "RVb-7h-kcf"; */
+"RVb-7h-kcf.segmentTitles[2]" = "CF";
+
+/* Class = "UISegmentedControl"; RVb-7h-kcf.segmentTitles[3] = "WF"; ObjectID = "RVb-7h-kcf"; */
+"RVb-7h-kcf.segmentTitles[3]" = "WF";
+
+/* Class = "UISegmentedControl"; SfE-mG-LeK.segmentTitles[0] = "None"; ObjectID = "SfE-mG-LeK"; */
+"SfE-mG-LeK.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; SfE-mG-LeK.segmentTitles[1] = "SF"; ObjectID = "SfE-mG-LeK"; */
+"SfE-mG-LeK.segmentTitles[1]" = "SF";
+
+/* Class = "UISegmentedControl"; SfE-mG-LeK.segmentTitles[2] = "DF"; ObjectID = "SfE-mG-LeK"; */
+"SfE-mG-LeK.segmentTitles[2]" = "DF";
+
+/* Class = "UILabel"; text = "Fallow"; ObjectID = "Tie-8z-KoZ"; */
+"Tie-8z-KoZ.text" = "Fallow";
+
+/* Class = "UISegmentedControl"; Ubr-Pd-cbI.segmentTitles[0] = "None"; ObjectID = "Ubr-Pd-cbI"; */
+"Ubr-Pd-cbI.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; Ubr-Pd-cbI.segmentTitles[1] = "PF"; ObjectID = "Ubr-Pd-cbI"; */
+"Ubr-Pd-cbI.segmentTitles[1]" = "PF";
+
+/* Class = "UISegmentedControl"; Ubr-Pd-cbI.segmentTitles[2] = "CF"; ObjectID = "Ubr-Pd-cbI"; */
+"Ubr-Pd-cbI.segmentTitles[2]" = "CF";
+
+/* Class = "UISegmentedControl"; Ubr-Pd-cbI.segmentTitles[3] = "WF"; ObjectID = "Ubr-Pd-cbI"; */
+"Ubr-Pd-cbI.segmentTitles[3]" = "WF";
+
+/* Class = "UISegmentedControl"; Vbu-Uk-suy.segmentTitles[0] = "None"; ObjectID = "Vbu-Uk-suy"; */
+"Vbu-Uk-suy.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; Vbu-Uk-suy.segmentTitles[1] = "Visual"; ObjectID = "Vbu-Uk-suy"; */
+"Vbu-Uk-suy.segmentTitles[1]" = "Visual";
+
+/* Class = "UILabel"; text = "Silver"; ObjectID = "W1f-Rm-NZs"; */
+"W1f-Rm-NZs.text" = "Silver";
+
+/* Class = "UILabel"; text = "Pastelface (PF),\nCreamface (CF),\nWhiteface (WF)"; ObjectID = "X9B-g4-80B"; */
+"X9B-g4-80B.text" = "Pastelface (PF),\nCreamface (CF),\nWhiteface (WF)";
+
+/* Class = "UILabel"; text = "Silver"; ObjectID = "Xed-Ku-qSG"; */
+"Xed-Ku-qSG.text" = "Silver";
+
+/* Class = "UISegmentedControl"; XzK-hE-wDv.segmentTitles[0] = "None"; ObjectID = "XzK-hE-wDv"; */
+"XzK-hE-wDv.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; XzK-hE-wDv.segmentTitles[1] = "X1"; ObjectID = "XzK-hE-wDv"; */
+"XzK-hE-wDv.segmentTitles[1]" = "X1";
+
+/* Class = "UISegmentedControl"; XzK-hE-wDv.segmentTitles[2] = "X2"; ObjectID = "XzK-hE-wDv"; */
+"XzK-hE-wDv.segmentTitles[2]" = "X2";
+
+/* Class = "UISegmentedControl"; XzK-hE-wDv.segmentTitles[3] = "Visual"; ObjectID = "XzK-hE-wDv"; */
+"XzK-hE-wDv.segmentTitles[3]" = "Visual";
+
+/* Class = "UILabel"; text = "Pastelface (PF),\nCreamface (CF),\nWhiteface (WF)"; ObjectID = "Y5U-Me-Yro"; */
+"Y5U-Me-Yro.text" = "Pastelface (PF),\nCreamface (CF),\nWhiteface (WF)";
+
+/* Class = "UISegmentedControl"; Z36-6u-SN4.segmentTitles[0] = "None"; ObjectID = "Z36-6u-SN4"; */
+"Z36-6u-SN4.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; Z36-6u-SN4.segmentTitles[1] = "Split"; ObjectID = "Z36-6u-SN4"; */
+"Z36-6u-SN4.segmentTitles[1]" = "Split";
+
+/* Class = "UISegmentedControl"; Z36-6u-SN4.segmentTitles[2] = "Visual"; ObjectID = "Z36-6u-SN4"; */
+"Z36-6u-SN4.segmentTitles[2]" = "Visual";
+
+/* Class = "UILabel"; text = "Gene 1/Phenotype"; ObjectID = "ZvM-eo-0Rb"; */
+"ZvM-eo-0Rb.text" = "Gene 1/Phenotype";
+
+/* Class = "UITextView"; text = "Hello! I'm Kirsten Anderson, a Seattle-based graphic designer, illustrator, and programmer.\n\nEver since my own stint as a hobby cockatiel breeder as a teenager, I have had an interest in color mutations and genetics. I created the Cockatiel Color Palette in 2000 as a coding/design project at Art Center College of Design. Over the years, the site's audience has grown and browser support for the Shockwave plug-in has waned, so I'm pleased to offer an iOS Cockatiel Color Palette app with a new look and even more functionality!\n\nPlease feel free to send a message to kirsten@kirstenmunson.com with any questions, comments, or suggestions you may have. I always enjoy hearing from you!\n\nMy portfolio site: www.kirstenmunson.com\n\nCockatiel Color Palette on Facebook: www.facebook.com/cockatielcolorpalette"; ObjectID = "aCC-7x-S2S"; */
+"aCC-7x-S2S.text" = "Hello! I'm Kirsten Anderson, a Seattle-based graphic designer, illustrator, and programmer.\n\nEver since my own stint as a hobby cockatiel breeder as a teenager, I have had an interest in color mutations and genetics. I created the Cockatiel Color Palette in 2000 as a coding/design project at Art Center College of Design. Over the years, the site's audience has grown and browser support for the Shockwave plug-in has waned, so I'm pleased to offer an iOS Cockatiel Color Palette app with a new look and even more functionality!\n\nPlease feel free to send a message to kirsten@kirstenmunson.com with any questions, comments, or suggestions you may have. I always enjoy hearing from you!\n\nMy portfolio site: www.kirstenmunson.com\n\nCockatiel Color Palette on Facebook: www.facebook.com/cockatielcolorpalette";
+
+/* Class = "UISegmentedControl"; aoO-Hg-jU8.segmentTitles[0] = "None"; ObjectID = "aoO-Hg-jU8"; */
+"aoO-Hg-jU8.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; aoO-Hg-jU8.segmentTitles[1] = "Visual"; ObjectID = "aoO-Hg-jU8"; */
+"aoO-Hg-jU8.segmentTitles[1]" = "Visual";
+
+/* Class = "UILabel"; text = "Sex-linked Mutations"; ObjectID = "bwY-DP-0lB"; */
+"bwY-DP-0lB.text" = "Sex-linked Mutations";
+
+/* Class = "UILabel"; text = "Yellowcheek"; ObjectID = "czR-dH-VY5"; */
+"czR-dH-VY5.text" = "Yellowcheek";
+
+/* Class = "UILabel"; text = "Gene 2"; ObjectID = "flC-Ix-Nja"; */
+"flC-Ix-Nja.text" = "Gene 2";
+
+/* Class = "UILabel"; text = "Yellowcheek"; ObjectID = "fyS-np-9sW"; */
+"fyS-np-9sW.text" = "Yellowcheek";
+
+/* Class = "UISegmentedControl"; g2Z-v3-fjw.segmentTitles[0] = "None"; ObjectID = "g2Z-v3-fjw"; */
+"g2Z-v3-fjw.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; g2Z-v3-fjw.segmentTitles[1] = "PF"; ObjectID = "g2Z-v3-fjw"; */
+"g2Z-v3-fjw.segmentTitles[1]" = "PF";
+
+/* Class = "UISegmentedControl"; g2Z-v3-fjw.segmentTitles[2] = "CF"; ObjectID = "g2Z-v3-fjw"; */
+"g2Z-v3-fjw.segmentTitles[2]" = "CF";
+
+/* Class = "UISegmentedControl"; g2Z-v3-fjw.segmentTitles[3] = "WF"; ObjectID = "g2Z-v3-fjw"; */
+"g2Z-v3-fjw.segmentTitles[3]" = "WF";
+
+/* Class = "UISegmentedControl"; g9G-tP-qXg.segmentTitles[0] = "None"; ObjectID = "g9G-tP-qXg"; */
+"g9G-tP-qXg.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; g9G-tP-qXg.segmentTitles[1] = "Split"; ObjectID = "g9G-tP-qXg"; */
+"g9G-tP-qXg.segmentTitles[1]" = "Split";
+
+/* Class = "UISegmentedControl"; g9G-tP-qXg.segmentTitles[2] = "Visual"; ObjectID = "g9G-tP-qXg"; */
+"g9G-tP-qXg.segmentTitles[2]" = "Visual";
+
+/* Class = "UILabel"; text = "Pearl"; ObjectID = "iDP-cn-1Yr"; */
+"iDP-cn-1Yr.text" = "Pearl";
+
+/* Class = "UILabel"; text = "Gene 1/Phenotype"; ObjectID = "iyp-pd-QhL"; */
+"iyp-pd-QhL.text" = "Gene 1/Phenotype";
+
+/* Class = "UITabBarItem"; title = "Virtual Breeder"; ObjectID = "kNu-Ko-Xfh"; */
+"kNu-Ko-Xfh.title" = "Virtual Breeder";
+
+/* Class = "UILabel"; text = "Olive"; ObjectID = "kPb-qe-lZg"; */
+"kPb-qe-lZg.text" = "Olive";
+
+/* Class = "UISegmentedControl"; m2D-FV-O6b.segmentTitles[0] = "None"; ObjectID = "m2D-FV-O6b"; */
+"m2D-FV-O6b.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; m2D-FV-O6b.segmentTitles[1] = "X1"; ObjectID = "m2D-FV-O6b"; */
+"m2D-FV-O6b.segmentTitles[1]" = "X1";
+
+/* Class = "UISegmentedControl"; m2D-FV-O6b.segmentTitles[2] = "X2"; ObjectID = "m2D-FV-O6b"; */
+"m2D-FV-O6b.segmentTitles[2]" = "X2";
+
+/* Class = "UISegmentedControl"; m2D-FV-O6b.segmentTitles[3] = "Visual"; ObjectID = "m2D-FV-O6b"; */
+"m2D-FV-O6b.segmentTitles[3]" = "Visual";
+
+/* Class = "UITabBarItem"; title = "About CCP"; ObjectID = "mb0-3V-7WD"; */
+"mb0-3V-7WD.title" = "About CCP";
+
+/* Class = "UILabel"; text = "Fallow"; ObjectID = "mwq-F3-lmm"; */
+"mwq-F3-lmm.text" = "Fallow";
+
+/* Class = "UINavigationItem"; title = "Virtual Breeder"; ObjectID = "on5-GV-F5f"; */
+"on5-GV-F5f.title" = "Virtual Breeder";
+
+/* Class = "UILabel"; text = "Lutino"; ObjectID = "qSs-5b-tNm"; */
+"qSs-5b-tNm.text" = "Lutino";
+
+/* Class = "UILabel"; text = "Yellowcheek"; ObjectID = "qzK-5e-YiK"; */
+"qzK-5e-YiK.text" = "Yellowcheek";
+
+/* Class = "UISegmentedControl"; rWs-iX-AwZ.segmentTitles[0] = "None"; ObjectID = "rWs-iX-AwZ"; */
+"rWs-iX-AwZ.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; rWs-iX-AwZ.segmentTitles[1] = "PF"; ObjectID = "rWs-iX-AwZ"; */
+"rWs-iX-AwZ.segmentTitles[1]" = "PF";
+
+/* Class = "UISegmentedControl"; rWs-iX-AwZ.segmentTitles[2] = "CF"; ObjectID = "rWs-iX-AwZ"; */
+"rWs-iX-AwZ.segmentTitles[2]" = "CF";
+
+/* Class = "UISegmentedControl"; rWs-iX-AwZ.segmentTitles[3] = "WF"; ObjectID = "rWs-iX-AwZ"; */
+"rWs-iX-AwZ.segmentTitles[3]" = "WF";
+
+/* Class = "UISegmentedControl"; sMM-mc-qbY.segmentTitles[0] = "None"; ObjectID = "sMM-mc-qbY"; */
+"sMM-mc-qbY.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; sMM-mc-qbY.segmentTitles[1] = "Split"; ObjectID = "sMM-mc-qbY"; */
+"sMM-mc-qbY.segmentTitles[1]" = "Split";
+
+/* Class = "UISegmentedControl"; sMM-mc-qbY.segmentTitles[2] = "Visual"; ObjectID = "sMM-mc-qbY"; */
+"sMM-mc-qbY.segmentTitles[2]" = "Visual";
+
+/* Class = "UISegmentedControl"; sfi-y5-kFg.segmentTitles[0] = "None"; ObjectID = "sfi-y5-kFg"; */
+"sfi-y5-kFg.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; sfi-y5-kFg.segmentTitles[1] = "Visual"; ObjectID = "sfi-y5-kFg"; */
+"sfi-y5-kFg.segmentTitles[1]" = "Visual";
+
+/* Class = "UILabel"; text = "Recessive Mutations"; ObjectID = "t1U-EE-gDP"; */
+"t1U-EE-gDP.text" = "Recessive Mutations";
+
+/* Class = "UITableViewController"; title = "Virtual Breeder"; ObjectID = "uO9-rp-c3k"; */
+"uO9-rp-c3k.title" = "Virtual Breeder";
+
+/* Class = "UINavigationItem"; title = "Help Topics"; ObjectID = "uk7-u6-XIT"; */
+"uk7-u6-XIT.title" = "Help Topics";
+
+/* Class = "UISegmentedControl"; vqd-DH-gam.segmentTitles[0] = "None"; ObjectID = "vqd-DH-gam"; */
+"vqd-DH-gam.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; vqd-DH-gam.segmentTitles[1] = "SF"; ObjectID = "vqd-DH-gam"; */
+"vqd-DH-gam.segmentTitles[1]" = "SF";
+
+/* Class = "UISegmentedControl"; vqd-DH-gam.segmentTitles[2] = "DF"; ObjectID = "vqd-DH-gam"; */
+"vqd-DH-gam.segmentTitles[2]" = "DF";
+
+/* Class = "UILabel"; text = "Recessive Mutations"; ObjectID = "wvM-tm-A6J"; */
+"wvM-tm-A6J.text" = "Recessive Mutations";
+
+/* Class = "UISegmentedControl"; xjy-ZJ-eRO.segmentTitles[0] = "None"; ObjectID = "xjy-ZJ-eRO"; */
+"xjy-ZJ-eRO.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; xjy-ZJ-eRO.segmentTitles[1] = "X1"; ObjectID = "xjy-ZJ-eRO"; */
+"xjy-ZJ-eRO.segmentTitles[1]" = "X1";
+
+/* Class = "UISegmentedControl"; xjy-ZJ-eRO.segmentTitles[2] = "X2"; ObjectID = "xjy-ZJ-eRO"; */
+"xjy-ZJ-eRO.segmentTitles[2]" = "X2";
+
+/* Class = "UISegmentedControl"; xjy-ZJ-eRO.segmentTitles[3] = "Visual"; ObjectID = "xjy-ZJ-eRO"; */
+"xjy-ZJ-eRO.segmentTitles[3]" = "Visual";
+
+/* Class = "UISegmentedControl"; ywJ-5B-QZK.segmentTitles[0] = "None"; ObjectID = "ywJ-5B-QZK"; */
+"ywJ-5B-QZK.segmentTitles[0]" = "None";
+
+/* Class = "UISegmentedControl"; ywJ-5B-QZK.segmentTitles[1] = "Split"; ObjectID = "ywJ-5B-QZK"; */
+"ywJ-5B-QZK.segmentTitles[1]" = "Split";
+
+/* Class = "UISegmentedControl"; ywJ-5B-QZK.segmentTitles[2] = "Visual"; ObjectID = "ywJ-5B-QZK"; */
+"ywJ-5B-QZK.segmentTitles[2]" = "Visual";
+
+/* Class = "UILabel"; text = "Pearl"; ObjectID = "zHB-ol-WhN"; */
+"zHB-ol-WhN.text" = "Pearl";
+
+/* Class = "UILabel"; text = "Sex-linked Mutations"; ObjectID = "zmk-TK-xUI"; */
+"zmk-TK-xUI.text" = "Sex-linked Mutations";

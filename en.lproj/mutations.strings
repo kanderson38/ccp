@@ -1,0 +1,12 @@
+/* 
+  mutations.strings
+  Cockatiel Color Palette
+
+  Created by Kirsten Anderson on 5/13/15.
+  Copyright (c) 2015 Kirsten Anderson. All rights reserved.
+*/
+
+/* grey description */
+"normal_grey_desc" = "This is the coloration of wild cockatiels, and it is dominant to all color mutations (except dominant silver). All mutations are variations of normal grey plumage, and are caused by dilution, intensification, or absence of the colors found in greys. \n The bird pictured is a male, which is evident from his clear yellow face and bright red cheek patch. Female greys have grey faces and more indistinct cheek patches.";
+/* Menu item to make the current document rich text */
+"Make Rich Text" = "Make Rich Text";

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7702" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CCPMutationDetailViewViewController">
+            <connections>
+                <outlet property="mutationImage" destination="ceD-VW-BHl" id="SoA-ps-5Eu"/>
+                <outlet property="mutationText" destination="E48-jl-4FW" id="SaF-Fp-wqE"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ceD-VW-BHl">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="237"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E48-jl-4FW">
+                    <rect key="frame" x="0.0" y="245" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="E48-jl-4FW" firstAttribute="top" secondItem="ceD-VW-BHl" secondAttribute="bottom" constant="8" id="3Pf-Pr-yvU"/>
+                <constraint firstItem="ceD-VW-BHl" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="UAQ-IP-0qs"/>
+                <constraint firstItem="ceD-VW-BHl" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="Vhz-gO-Sp3"/>
+                <constraint firstAttribute="trailing" secondItem="ceD-VW-BHl" secondAttribute="trailing" id="XSK-77-uV4"/>
+                <constraint firstAttribute="trailing" relation="lessThanOrEqual" secondItem="E48-jl-4FW" secondAttribute="trailing" constant="558" id="lyB-i9-N0i"/>
+                <constraint firstItem="E48-jl-4FW" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="uez-DA-B2x"/>
+            </constraints>
+        </view>
+    </objects>
+</document>
